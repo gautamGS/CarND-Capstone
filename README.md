@@ -2,7 +2,9 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 
 #### Team Members
 Gautam Sareen :   gautam_sareen@infosys.com  [Team Lead]
+
 Shamsher Singh Thind : shamsher_thind@infosys.com
+
 Ganesh Prabakaran : ganesh_prabakaran@infosys.com
 
 
